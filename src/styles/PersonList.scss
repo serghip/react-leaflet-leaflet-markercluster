@@ -1,0 +1,14 @@
+.PersonList{
+    width: 50%;
+    margin:10px;
+}
+#tablePagination > div {
+    width: max-content;
+    
+}
+@media (max-width:1024px){
+    .PersonList{
+        width: 100%;
+        padding-bottom: 10px;
+    }
+}
