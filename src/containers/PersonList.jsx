@@ -1,6 +1,6 @@
 import React from 'react';
-import PersonItem from '@components/PersonItem';
-import '@styles/PersonList.scss'
+import PersonItem from '../components/PersonItem';
+import '../styles/PersonList.scss'
 //Material Desing
 import { useTheme } from '@mui/material/styles';
 import Box from '@mui/material/Box';

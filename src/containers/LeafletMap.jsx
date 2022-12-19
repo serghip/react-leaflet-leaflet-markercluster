@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import AppContext from '../context/AppContext'
-import '@styles/LeafletMap.scss';
-import useGetPersons from "@hooks/useGetPersons";
+import '../styles/LeafletMap.scss';
+import useGetPersons from "../hooks/useGetPersons";
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import MarkerClusterGroup from 'react-leaflet-markercluster';
 

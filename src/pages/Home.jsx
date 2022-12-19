@@ -1,6 +1,6 @@
 import React from 'react';
-import '@styles/Home.scss';
-import HomeContent from '@containers/HomeContent'
+import '../styles/Home.scss';
+import HomeContent from '../containers/HomeContent'
 
 const Home = () => {
 	return (

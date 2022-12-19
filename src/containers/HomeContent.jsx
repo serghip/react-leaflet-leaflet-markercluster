@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useContext} from 'react';
 
-import Filter from '@components/Filter'
-import PersonList from '@containers/PersonList';
-import LeafleatMap from '@containers/LeafletMap';
+import Filter from '../components/Filter'
+import PersonList from '../containers/PersonList';
+import LeafleatMap from '../containers/LeafletMap';
 import data from '../data.json';
 
 import axios from 'axios';
