@@ -5,8 +5,8 @@
         "nomhospital": "Hospital Nombre 1",
         "latitud": "-34.6129",
         "longitud": "-58.439",
-        "ingreso": "2022-08-01T03:00:00.000Z",
-        "egreso": "0000-00-00",
+        "ingreso": "2023-08-01",
+        "egreso": "2023-08-02",
         "estado": 1
     },
     {
@@ -15,7 +15,7 @@
         "nomhospital": "Hospital Nombre 2",
         "latitud": "-38.013",
         "longitud": "-57.601",
-        "ingreso": "2022-08-01T03:00:00.000Z",
+        "ingreso": "2023-08-01",
         "egreso": "0000-00-00",
         "estado": 1
     },
@@ -25,8 +25,8 @@
         "nomhospital": "Hospital Nombre 3",
         "latitud": "-33.943",
         "longitud": "-60.557",
-        "ingreso": "2022-08-01T03:00:00.000Z",
-        "egreso": "0000-00-00",
+        "ingreso": "2023-08-04",
+        "egreso": "2023-08-30",
         "estado": 1
     },
     {
@@ -35,8 +35,8 @@
         "nomhospital": "Hospital Nombre 3",
         "latitud": "-33.943",
         "longitud": "-60.557",
-        "ingreso": "2022-08-01T03:00:00.000Z",
-        "egreso": "0000-00-00",
+        "ingreso": "2023-08-07",
+        "egreso": "2023-08-10",
         "estado": 1
     },
     {
@@ -45,7 +45,7 @@
         "nomhospital": "Hospital Nombre 3",
         "latitud": "-33.943",
         "longitud": "-60.557",
-        "ingreso": "2022-08-01T03:00:00.000Z",
+        "ingreso": "2023-08-05",
         "egreso": "0000-00-00",
         "estado": 1
     },
@@ -55,8 +55,8 @@
         "nomhospital": "Hospital Nombre 4",
         "latitud": "-34.6016",
         "longitud": "-60.9521",
-        "ingreso": "2022-08-01T03:00:00.000Z",
-        "egreso": "2022-08-05T03:00:00.000Z",
+        "ingreso": "2023-09-20",
+        "egreso": "2023-09-22",
         "estado": 0
     },
     {
@@ -65,8 +65,8 @@
         "nomhospital": "Hospital Nombre 5",
         "latitud": "-34.9220",
         "longitud": "-57.9941",
-        "ingreso": "2022-08-01T03:00:00.000Z",
-        "egreso": "0000-00-00",
+        "ingreso": "2023-09-23",
+        "egreso": "2023-09-25",
         "estado": 1
     },
     {
@@ -75,7 +75,7 @@
         "nomhospital": "Hospital Nombre 6",
         "latitud": "-34.9895",
         "longitud": "-58.8208",
-        "ingreso": "2022-08-01T03:00:00.000Z",
+        "ingreso": "2023-10-10",
         "egreso": "0000-00-00",
         "estado": 1
     }
